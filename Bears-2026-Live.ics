@@ -234,15 +234,4 @@ LOCATION:Soldier Field\, Chicago\, IL
 DESCRIPTION:TV: FOX\nLocation: Soldier Field\, Chicago\, IL\n\nBears 2026 schedule
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
-BEGIN:VEVENT
-UID:bears-2026-w10-bye@bears2026.live
-SEQUENCE:2
-DTSTAMP:20260827T142416Z
-LAST-MODIFIED:20260827T142416Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Bears BYE — Week 10
-DESCRIPTION:No game this week.\n\nBears 2026 schedule
-URL:https://www.chicagobears.com/schedule/
-END:VEVENT
 END:VCALENDAR
