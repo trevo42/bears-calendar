@@ -14,7 +14,10 @@ DTSTART;TZID=America/Chicago:20260815T120000
 DTEND;TZID=America/Chicago:20260815T150000
 SUMMARY:Preseason Week 1: Chicago Bears vs Cleveland Browns
 LOCATION:Soldier Field\, Chicago\, IL
-DESCRIPTION:TV: NFL Network / FOX32\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: NFL Network / FOX32\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -25,7 +28,10 @@ DTSTART;TZID=America/Chicago:20260822T180000
 DTEND;TZID=America/Chicago:20260822T210000
 SUMMARY:Preseason Week 2: Chicago Bears at Cincinnati Bengals
 LOCATION:Paycor Stadium\, Cincinnati\, OH
-DESCRIPTION:TV: FOX32\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: FOX32\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -36,7 +42,10 @@ DTSTART;TZID=America/Chicago:20260829T170000
 DTEND;TZID=America/Chicago:20260829T200000
 SUMMARY:Preseason Week 3: Chicago Bears at Tennessee Titans
 LOCATION:Nissan Stadium\, Nashville\, TN
-DESCRIPTION:TV: NFL Network / FOX32\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: NFL Network / FOX32\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -47,7 +56,10 @@ DTSTART;TZID=America/Chicago:20260913T120000
 DTEND;TZID=America/Chicago:20260913T151500
 SUMMARY:Bears at Carolina Panthers — Week 1
 LOCATION:Bank of America Stadium\, Charlotte\, NC
-DESCRIPTION:TV: FOX\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: FOX\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -58,7 +70,10 @@ DTSTART;TZID=America/Chicago:20260920T120000
 DTEND;TZID=America/Chicago:20260920T151500
 SUMMARY:Bears vs Minnesota Vikings — Week 2
 LOCATION:Soldier Field\, Chicago\, IL
-DESCRIPTION:TV: FOX\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: FOX\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -69,7 +84,10 @@ DTSTART;TZID=America/Chicago:20260928T191500
 DTEND;TZID=America/Chicago:20260928T223000
 SUMMARY:Bears vs Philadelphia Eagles — Week 3
 LOCATION:Soldier Field\, Chicago\, IL
-DESCRIPTION:TV: ESPN / ABC\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: ESPN / ABC\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +98,10 @@ DTSTART;TZID=America/Chicago:20261004T120000
 DTEND;TZID=America/Chicago:20261004T151500
 SUMMARY:Bears vs New York Jets — Week 4
 LOCATION:Soldier Field\, Chicago\, IL
-DESCRIPTION:TV: FOX\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: FOX\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -91,7 +112,10 @@ DTSTART;TZID=America/Chicago:20261011T152500
 DTEND;TZID=America/Chicago:20261011T183000
 SUMMARY:Bears at Green Bay Packers — Week 5
 LOCATION:Lambeau Field\, Green Bay\, WI
-DESCRIPTION:TV: FOX\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: FOX\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -102,7 +126,10 @@ DTSTART;TZID=America/Chicago:20261018T120000
 DTEND;TZID=America/Chicago:20261018T151500
 SUMMARY:Bears at Atlanta Falcons — Week 6
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
-DESCRIPTION:TV: TBD\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: TBD\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -113,7 +140,10 @@ DTSTART;TZID=America/Chicago:20261022T191500
 DTEND;TZID=America/Chicago:20261022T223000
 SUMMARY:Bears vs New England Patriots — Week 7
 LOCATION:Soldier Field\, Chicago\, IL
-DESCRIPTION:TV: Prime Video\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: Prime Video\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -124,7 +154,10 @@ DTSTART;TZID=America/Chicago:20261102T191500
 DTEND;TZID=America/Chicago:20261102T223000
 SUMMARY:Bears at Seattle Seahawks — Week 8
 LOCATION:Lumen Field\, Seattle\, WA
-DESCRIPTION:TV: ESPN / ABC\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: ESPN / ABC\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -135,7 +168,10 @@ DTSTART;TZID=America/Chicago:20261108T192000
 DTEND;TZID=America/Chicago:20261108T223000
 SUMMARY:Bears vs Tampa Bay Buccaneers — Week 9
 LOCATION:Soldier Field\, Chicago\, IL
-DESCRIPTION:TV: NBC / Peacock\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: NBC / Peacock\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -146,7 +182,10 @@ DTSTART;TZID=America/Chicago:20261115T120000
 DTEND;TZID=America/Chicago:20261115T151500
 SUMMARY:Bears vs New Orleans Saints — Week 11
 LOCATION:Soldier Field\, Chicago\, IL
-DESCRIPTION:TV: TBD\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: TBD\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -157,7 +196,10 @@ DTSTART;TZID=America/Chicago:20261122T120000
 DTEND;TZID=America/Chicago:20261122T151500
 SUMMARY:Bears at Detroit Lions — Week 12
 LOCATION:Ford Field\, Detroit\, MI
-DESCRIPTION:TV: CBS\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: CBS\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -168,7 +210,10 @@ DTSTART;TZID=America/Chicago:20261129T120000
 DTEND;TZID=America/Chicago:20261129T151500
 SUMMARY:Bears at Minnesota Vikings — Week 13
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
-DESCRIPTION:TV: TBD\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: TBD\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -179,7 +224,10 @@ DTSTART;TZID=America/Chicago:20261206T120000
 DTEND;TZID=America/Chicago:20261206T151500
 SUMMARY:Bears vs Green Bay Packers — Week 14
 LOCATION:Soldier Field\, Chicago\, IL
-DESCRIPTION:TV: TBD\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: TBD\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -190,7 +238,10 @@ DTSTART;TZID=America/Chicago:20261213T120000
 DTEND;TZID=America/Chicago:20261213T151500
 SUMMARY:Bears at Pittsburgh Steelers — Week 15
 LOCATION:Acrisure Stadium\, Pittsburgh\, PA
-DESCRIPTION:TV: TBD\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: TBD\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -201,7 +252,10 @@ DTSTART;TZID=America/Chicago:20261219T120000
 DTEND;TZID=America/Chicago:20261219T151500
 SUMMARY:Bears vs Green Bay Packers — Week 16
 LOCATION:Soldier Field\, Chicago\, IL
-DESCRIPTION:TV: Netflix\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: Netflix\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -212,7 +266,10 @@ DTSTART;TZID=America/Chicago:20261227T152500
 DTEND;TZID=America/Chicago:20261227T183000
 SUMMARY:Bears vs Detroit Lions — Week 17
 LOCATION:Soldier Field\, Chicago\, IL
-DESCRIPTION:TV: FOX\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: FOX\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 BEGIN:VEVENT
@@ -223,7 +280,10 @@ DTSTART;TZID=America/Chicago:20270103T120000
 DTEND;TZID=America/Chicago:20270103T151500
 SUMMARY:Bears at Minnesota Vikings — Week 18
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
-DESCRIPTION:TV: TBD\\n\\nThis event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.\\nOfficial schedule: https://www.chicagobears.com/schedule/
+
+DESCRIPTION:TV: TBD\n
+This event uses a stable UID so future kickoff/TV updates can replace this event rather than creating a duplicate.
+Official schedule: https://www.chicagobears.com/schedule/
 URL:https://www.chicagobears.com/schedule/
 END:VEVENT
 END:VCALENDAR
